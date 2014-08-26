@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.2.254:8086/hkb-app/123456/ios/icon144.png</string>
+					<string>http://118.194.192.191:8087/hkb-app/hkbcs-w/ios/icon144.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.2.254:8086/hkb-app/123456/ios/icon144.png</string>
+					<string>http://118.194.192.191:8087/hkb-app/hkbcs-w/ios/icon144.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
