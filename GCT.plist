@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ccvt.HKB</string>
+				<string>com.ccvt.GCT</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HKB</string>
+				<string>GCT</string>
 			</dict>
 		</dict>
 	</array>
